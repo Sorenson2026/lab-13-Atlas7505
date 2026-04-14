@@ -14,6 +14,7 @@ using namespace std;
 // Function Prototypes
 void fillVector(vector<int>& vec);
 void bubbleSort(vector<int>& vec);
+// This program that performs the Bubble Sort on a vector of ints. It should display the vector contents before it begins the sort, and again after each pass of the sort, thus showing the sort as it progresses
 
 int main() 
 {
